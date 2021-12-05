@@ -18,6 +18,13 @@
     width: 50%;
 }
 
+.WordMultChoice {
+    text-align: left;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: brown;
+    border-radius: 15px;
+}
+
 .directions {
     text-align: center;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
